@@ -1,0 +1,148 @@
+[
+    {
+      "name": "Cost",
+      "series": [
+        {
+          "name": "1001",
+          "value": 6,
+          "label": {
+            "reason": "optimized",
+            "sid": "1001",
+            "date": "2018/3/6"
+          }
+        },
+        {
+          "name": "1002",
+          "value": 5,
+          "label": {
+            "reason": "optimized",
+            "sid": "1002",
+            "date": "2018/3/9"
+          }
+        },
+        {
+          "name": "1003",
+          "value": 3,
+          "label": {
+            "reason": "price update",
+            "sid": "1003",
+            "date": "2018/3/6"
+          }
+        },
+        {
+          "name": "1004",
+          "value": 1,
+          "label": {
+            "reason": "price override",
+            "sid": "1004",
+            "date": "2018/4/6"
+          }
+        },
+        {
+          "name": "1005",
+          "value": 3,
+          "label": {
+            "reason": "price update",
+            "sid": "1005",
+            "date": "2018/6/6"
+          }
+        },
+        {
+          "name": "1006",
+          "value": 8,
+          "label": {
+            "reason": "price override",
+            "sid": "1006",
+            "date": "2018/6/12"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ref Cost",
+      "series": [
+        {
+          "name": "1001",
+          "value": 3
+        },
+        {
+          "name": "1002",
+          "value": 3
+        },
+        {
+          "name": "1003",
+          "value": 6
+        },
+        {
+          "name": "1004",
+          "value":7
+        },
+        {
+          "name": "1005",
+          "value": 8
+        },
+        {
+          "name": "1006",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "New Price",
+      "series": [
+        {
+          "name": "1001",
+          "value": 5
+        },
+        {
+          "name": "1002",
+          "value": 1
+        },
+        {
+          "name": "1003",
+          "value": 2
+        },
+        {
+          "name": "1004",
+          "value": 3
+        },
+        {
+          "name": "1005",
+          "value": 4
+        },
+        {
+          "name": "1006",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "name": "Current Price",
+      "series": [
+        {
+          "name": "1001",
+          "value": 1
+        },
+        {
+          "name": "1002",
+          "value": 1
+        },
+        {
+          "name": "1003",
+          "value": 3
+        },
+        {
+          "name": "1004",
+          "value": 3
+        },
+        {
+          "name": "1005",
+          "value": 6
+        },
+        {
+          "name": "1006",
+          "value": 10
+        }
+      ]
+    }
+  ]
