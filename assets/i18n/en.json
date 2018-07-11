@@ -3,5 +3,10 @@
         "title": "Translation Title",
         "text": "Translation Content"
     },
-    "empty_message": "None"
+    "emptyMessage": "None",
+    "spcaChart": {
+        "yAxisLabel": "Price"
+    },
+    "rbvTab": "Price Change by Rule",
+    "spcaTab": "Scenario Price Change Analysis"
 }
